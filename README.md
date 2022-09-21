@@ -18,6 +18,12 @@ EntityFramework
 Swagger
 Postgreesql
 
+<p align="center">
+C# 
+</p>
+
+
+
 
 📑 Documentação da API
 #ainda será anexada
