@@ -30,6 +30,10 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - Postgreesql
 </p>
 
+<p>
+- Designer Pattern: SOLID
+</p>
+
 
 
  <h2 align="left"> 📑 Documentação da API: </h2>
