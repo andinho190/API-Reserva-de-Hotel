@@ -31,6 +31,10 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 
 
+
+
+
+
 📑 Documentação da API:
 _____________________________________________________________________________________________________________
 #ainda será anexada
