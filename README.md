@@ -4,16 +4,15 @@
 
 
 
-<h1 align="center"> # API Gestao de Reservas Version: 1.0</h1>
+<h1 align="center"> # API Gestao de Reservas</h1>
 Uma API para cadastro de hoteis, clientes, funcionários, quartos e pagamentos. Feito para controle e gestao
-
 
 
 Tecnologias utilizadas:
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-C#
+<pC#</p
 .NET 6
 EntityFramework
 Swagger
