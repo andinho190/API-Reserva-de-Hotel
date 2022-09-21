@@ -56,3 +56,10 @@ Como executar esse projeto no seu computador:
 
 * Passo III: Rodar Aplicação: dotnet run
 
+
+Diagrama de Classes do Projeto (esboco):
+
+
+![Diagrama sem nome drawio](https://user-images.githubusercontent.com/39068960/191422235-f6e92bfc-3ed0-4176-aa50-3b415bdb8225.png)
+
+
