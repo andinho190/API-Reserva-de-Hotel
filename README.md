@@ -11,7 +11,6 @@ Uma API para cadastro de hoteis, clientes, funcionários, quartos e pagamentos. 
 
 
 📁 <h2 align="left"> Tecnologias utilizadas: </h2>
-________________________________________________________________________________________________________
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
@@ -41,12 +40,12 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 
 📑 <h2 align="left"> Documentação da API: </h2>
-_____________________________________________________________________________________________________________
+
 #ainda será anexada
 
 
 🛠️ <h2 align="left"> Lista de comandos e passos: </h2>
-____________________________________________________________________________________________________________
+
 Como executar esse projeto no seu computador:
 
 
