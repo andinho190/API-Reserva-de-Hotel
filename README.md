@@ -29,10 +29,13 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - Postgreesql
 </p>
 
+<p>
 
-
-
-
+  
+  
+  
+  
+</p>
 
 
 📑 Documentação da API:
