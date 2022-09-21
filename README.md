@@ -18,13 +18,12 @@ Postgreesql
 #ainda será anexada
 
 
-Documentação da Api
 
-Executar esse projeto no seu computador
+Como executar esse projeto no seu computador:
 
-Clonar Repositório: git clone https://github.com/andinho190/API-Reserva-de-Hotel.git
+Passo I: Clonar Repositório: git clone https://github.com/andinho190/API-Reserva-de-Hotel.git
 
-Subir as tabelas do banco de dados: dotnet ef database update
+Passo II: Subir as tabelas do banco de dados: dotnet ef database update
 
-Rodar Aplicação: dotnet run
+Passo III: Rodar Aplicação: dotnet run
 
