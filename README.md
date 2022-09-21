@@ -10,7 +10,7 @@
 Uma API para cadastro de hoteis, clientes, funcionários, quartos e pagamentos. Feito para controle e gestao
 
 
-📁 Tecnologias utilizadas:
+📁 <h2 align="left"> Tecnologias utilizadas: </h2>
 ________________________________________________________________________________________________________
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
@@ -40,12 +40,12 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 </p>
 
 
-📑 <h4 align="left"> Documentação da API: </h4>
+📑 <h2 align="left"> Documentação da API: </h2>
 _____________________________________________________________________________________________________________
 #ainda será anexada
 
 
-🛠️ <h4 align="left"> Lista de comandos e passos: </h4>
+🛠️ <h2 align="left"> Lista de comandos e passos: </h2>
 ____________________________________________________________________________________________________________
 Como executar esse projeto no seu computador:
 
@@ -58,7 +58,7 @@ Como executar esse projeto no seu computador:
 
 
 
-📋 <h4 align="left"> Diagrama de Classes do Projeto (esboco): </h4>
+📋 <h2 align="left"> Diagrama de Classes do Projeto (esboco): </h2>
 _____________________________________________________________________________________________________________
 <img src="https://user-images.githubusercontent.com/39068960/191422235-f6e92bfc-3ed0-4176-aa50-3b415bdb8225.png"/>
 
