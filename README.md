@@ -1,7 +1,7 @@
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge) ![Badge versao](http://img.shields.io/static/v1?label=Version&message=%20V1.0&color=blue&style=for-the-badge)
 
-![Badge versao](http://img.shields.io/static/v1?label=Version&message=%20V1.0&color=BLUE&style=for-the-badge)
+
 
 
 <h1 align="center"> # API Gestao de Reservas Version: 1.0</h1>
