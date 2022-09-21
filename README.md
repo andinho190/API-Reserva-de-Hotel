@@ -12,7 +12,7 @@ Tecnologias utilizadas:
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-<pC#</p
+<p C# </p>
 .NET 6
 EntityFramework
 Swagger
