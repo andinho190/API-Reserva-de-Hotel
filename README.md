@@ -34,7 +34,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
  <h2 align="left"> 📑 Documentação da API: </h2>
 
-#ainda será anexada
+#ainda será anexada via postman público
 
 
  <h2 align="left"> 🛠️ Lista de comandos e passos: </h2>
