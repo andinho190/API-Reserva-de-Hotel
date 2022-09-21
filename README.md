@@ -10,7 +10,7 @@
 Uma API para cadastro de hoteis, clientes, funcionários, quartos e pagamentos. Feito para controle e gestao
 
 
-<h2 📁  align="left"> Tecnologias utilizadas: </h2>
+ 📁  <h2 align="left"> Tecnologias utilizadas: </h2>
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
@@ -30,13 +30,6 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - Postgreesql
 </p>
 
-<p>
-
-  
-  
-  
-  
-</p>
 
 
 📑 <h2 align="left"> Documentação da API: </h2>
