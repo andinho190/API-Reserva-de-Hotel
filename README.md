@@ -40,7 +40,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 </p>
 
 
-📑 <h1 Documentação da API: </h1>
+📑 <h6 Documentação da API: </h6>
 _____________________________________________________________________________________________________________
 #ainda será anexada
 
