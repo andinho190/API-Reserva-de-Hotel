@@ -40,12 +40,12 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 </p>
 
 
-📑 <h6 align="center">Documentação da API: </h6>
+📑 <h4 align="left"> Documentação da API: </h4>
 _____________________________________________________________________________________________________________
 #ainda será anexada
 
 
-🛠️ <h1 Lista de comandos e passos: </h1>
+🛠️ <h4 align="left"> Lista de comandos e passos: </h4>
 ____________________________________________________________________________________________________________
 Como executar esse projeto no seu computador:
 
@@ -58,7 +58,7 @@ Como executar esse projeto no seu computador:
 
 
 
-📋 <h1 Diagrama de Classes do Projeto (esboco): </h1>
+📋 <h4 align="left"> Diagrama de Classes do Projeto (esboco): </h4>
 _____________________________________________________________________________________________________________
 <img src="https://user-images.githubusercontent.com/39068960/191422235-f6e92bfc-3ed0-4176-aa50-3b415bdb8225.png"/>
 
