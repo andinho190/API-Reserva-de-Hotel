@@ -1,5 +1,5 @@
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge) ![Badge versao](http://img.shields.io/static/v1?label=Version&message=%20V1.0&color=red&style=for-the-badge) ![Badge versao](http://img.shields.io/static/v1?label=Plataforma&message=%20API EM .NET6&color=blue&style=for-the-badge)
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge) ![Badge versao](http://img.shields.io/static/v1?label=Version&message=%20V1.0&color=red&style=for-the-badge) ![Badge versao](http://img.shields.io/static/v1?label=Plataforma&message=%20APIEM.NET6&color=blue&style=for-the-badge)
 
 
 
