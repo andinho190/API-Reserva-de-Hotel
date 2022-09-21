@@ -8,7 +8,8 @@
 Uma API para cadastro de hoteis, clientes, funcionários, quartos e pagamentos. Feito para controle e gestao
 
 
-Tecnologias utilizadas:
+📁 Tecnologias utilizadas:
+________________________________________________________________________________________________________
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
