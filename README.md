@@ -30,20 +30,19 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 
 
-
-
-
-
-📑 Documentação da API
+📑 Documentação da API:
+_____________________________________________________________________________________________________________
 #ainda será anexada
 
 
-
+🛠️ Lista de comandos e passos:
+____________________________________________________________________________________________________________
 Como executar esse projeto no seu computador:
 
-Passo I: Clonar Repositório: git clone https://github.com/andinho190/API-Reserva-de-Hotel.git
 
-Passo II: Subir as tabelas do banco de dados: dotnet ef database update
+* Passo I: Clonar Repositório: git clone https://github.com/andinho190/API-Reserva-de-Hotel.git
 
-Passo III: Rodar Aplicação: dotnet run
+* Passo II: Subir as tabelas do banco de dados: dotnet ef database update
+
+* Passo III: Rodar Aplicação: dotnet run
 
