@@ -60,7 +60,7 @@ Como executar esse projeto no seu computador:
 
 Diagrama de Classes do Projeto (esboco):
 _____________________________________________________________________________________________________________
-<img src="https://user-images.githubusercontent.com/39068960/191422235-f6e92bfc-3ed0-4176-aa50-3b415bdb8225.png" width="40" height="40"/>
+<img src="https://user-images.githubusercontent.com/39068960/191422235-f6e92bfc-3ed0-4176-aa50-3b415bdb8225.png"/>
 
 
 
