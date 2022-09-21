@@ -12,15 +12,28 @@ Tecnologias utilizadas:
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-<p C# </p>
-.NET 6
-EntityFramework
-Swagger
-Postgreesql
-
-<p align="center">
+<p>
 C# 
 </p>
+
+<p>
+.NET 6
+</p>
+
+<p>
+EntityFramework
+</p>
+
+<p>
+Swagger
+</p>
+
+<p>
+Postgreesql
+</p>
+
+
+
 
 
 
