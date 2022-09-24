@@ -1,0 +1,15 @@
+/Users/admin/Desktop/Projeto API Reserva de Hotel/Gestao_Hotel.api/Gestao_Hotel.api.Infra.Data/bin/Debug/net6.0/Gestao_Hotel.api.Infra.Data.deps.json
+/Users/admin/Desktop/Projeto API Reserva de Hotel/Gestao_Hotel.api/Gestao_Hotel.api.Infra.Data/bin/Debug/net6.0/Gestao_Hotel.api.Infra.Data.dll
+/Users/admin/Desktop/Projeto API Reserva de Hotel/Gestao_Hotel.api/Gestao_Hotel.api.Infra.Data/bin/Debug/net6.0/Gestao_Hotel.api.Infra.Data.pdb
+/Users/admin/Desktop/Projeto API Reserva de Hotel/Gestao_Hotel.api/Gestao_Hotel.api.Infra.Data/bin/Debug/net6.0/Gestao_Hotel.api.Domain.dll
+/Users/admin/Desktop/Projeto API Reserva de Hotel/Gestao_Hotel.api/Gestao_Hotel.api.Infra.Data/bin/Debug/net6.0/Gestao_Hotel.api.Domain.pdb
+/Users/admin/Desktop/Projeto API Reserva de Hotel/Gestao_Hotel.api/Gestao_Hotel.api.Infra.Data/obj/Debug/net6.0/Gestao_Hotel.api.Infra.Data.csproj.AssemblyReference.cache
+/Users/admin/Desktop/Projeto API Reserva de Hotel/Gestao_Hotel.api/Gestao_Hotel.api.Infra.Data/obj/Debug/net6.0/Gestao_Hotel.api.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/Projeto API Reserva de Hotel/Gestao_Hotel.api/Gestao_Hotel.api.Infra.Data/obj/Debug/net6.0/Gestao_Hotel.api.Infra.Data.AssemblyInfoInputs.cache
+/Users/admin/Desktop/Projeto API Reserva de Hotel/Gestao_Hotel.api/Gestao_Hotel.api.Infra.Data/obj/Debug/net6.0/Gestao_Hotel.api.Infra.Data.AssemblyInfo.cs
+/Users/admin/Desktop/Projeto API Reserva de Hotel/Gestao_Hotel.api/Gestao_Hotel.api.Infra.Data/obj/Debug/net6.0/Gestao_Hotel.api.Infra.Data.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/Projeto API Reserva de Hotel/Gestao_Hotel.api/Gestao_Hotel.api.Infra.Data/obj/Debug/net6.0/Gestao_Hotel.api.Infra.Data.csproj.CopyComplete
+/Users/admin/Desktop/Projeto API Reserva de Hotel/Gestao_Hotel.api/Gestao_Hotel.api.Infra.Data/obj/Debug/net6.0/Gestao_Hotel.api.Infra.Data.dll
+/Users/admin/Desktop/Projeto API Reserva de Hotel/Gestao_Hotel.api/Gestao_Hotel.api.Infra.Data/obj/Debug/net6.0/refint/Gestao_Hotel.api.Infra.Data.dll
+/Users/admin/Desktop/Projeto API Reserva de Hotel/Gestao_Hotel.api/Gestao_Hotel.api.Infra.Data/obj/Debug/net6.0/Gestao_Hotel.api.Infra.Data.pdb
+/Users/admin/Desktop/Projeto API Reserva de Hotel/Gestao_Hotel.api/Gestao_Hotel.api.Infra.Data/obj/Debug/net6.0/ref/Gestao_Hotel.api.Infra.Data.dll
